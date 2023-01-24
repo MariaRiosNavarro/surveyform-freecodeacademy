@@ -1,2 +1,2 @@
 # surveyform-freecodeacademy
-Freecode Academy Exercise for Certifi
+Freecode Academy Exercise for Certification
